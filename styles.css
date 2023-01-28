@@ -1,0 +1,14 @@
+div {
+    color: solid white;
+    background-color: solid black;
+    
+}
+
+p {
+    color: red;
+    background-color: solid black;
+}
+
+* {
+    border: 2px solid red;
+}
